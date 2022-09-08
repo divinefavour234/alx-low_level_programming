@@ -1,11 +1,3 @@
 **This Repo contains the alx low level programming language solutions**
-*
-editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file at the root of the repo, containing a description of the repository
-A README.md file, at the root of the folder of this project, containing a description of the project
-There should be no errors and no warnings during compilation
-You are not allowed to use system
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-*
+It contains programs mostly on the C language
+This repo consit of diffrent directories in which each directory consist of different sub-topic, wit the naming convention of 0x00 e.t.c
