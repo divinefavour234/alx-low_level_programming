@@ -6,6 +6,8 @@
  * Description: Check for Alphabetic Characters
  *
  * Return: return (1) if alphabet else return 0
+ *
+ * @c: The int to accept
  */
 int _isalpha(int c)
 {

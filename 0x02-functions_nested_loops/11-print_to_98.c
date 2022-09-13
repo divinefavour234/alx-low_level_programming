@@ -4,6 +4,8 @@
  * print_to_98 - Entry of the Function
  *
  * Description: print all natural numbers from n to 98
+ *
+ * @n: parameter to be accepted
  */
 void print_to_98(int n)
 {

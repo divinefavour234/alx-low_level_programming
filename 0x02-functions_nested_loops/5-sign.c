@@ -7,6 +7,8 @@
  *
  * Return: return (1) and print + if n is greater than 0
  * return (0) and print - if n is less than zero
+ *
+ * @c: The parameter to accept
  */
 int print_sign(int n)
 {

@@ -5,7 +5,11 @@
  *
  * Description: Add two numbers
  *
- * Return: return the value in int
+ * Return: return (c)  the value in int
+ *
+ * @a: The int to be accepted
+ *
+ * @a: The int to be acceoted
  */
 int add(int a, int b)
 {
