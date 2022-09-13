@@ -3,7 +3,7 @@
 /**
  * print-alphabet - Entry for this program
  *
- * description: print the lowerr case alphabets
+ * Description: print the lowerr case alphabets
  */
 
 void print_alphabet(void)
