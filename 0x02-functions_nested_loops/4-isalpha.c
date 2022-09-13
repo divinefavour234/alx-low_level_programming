@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * int _isalpha - Entry of the function
+ * _isalpha - Entry of the function
  *
  * Description: Check for Alphabetic Characters
  *
