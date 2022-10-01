@@ -1,19 +1,18 @@
-nclude <stdio.h>
+#include <stdio.h>
+#include "main.h"
 
 /**
+ * main - Print the name of the program
+ * @argc: Count arguments
+ * @argv: Arguments
  *
- *  * main - is a function that prints the name of the file
- *
- *   * @argc: is an argument counter for char
- *
- *    * @argv: is an argument value for char
- *
- *     * Return: Always 0 (Success)
- *
- *      */
+ * Return: Always 0 (Success)
+ */
 
 int main(int argc, char *argv[])
 {
-	printf("%s\n", argv[argc - argc]);
-	return (0);
+(void) argc;
+printf("%s\n", argv[0]);
+
+return (0);
 }
